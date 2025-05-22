@@ -9,7 +9,6 @@
 <p align="center">
   <a href="#Funciones">Funciones</a> •
   <a href="#Prerequisitos">Prerequisitos</a> •
-  <a href="#Descarga">Descarga</a> •
   <a href="#Como-usarlo">Cómo usarlo</a> •
   <a href="#Salida">Salida</a> •
   <a href="#Créditos">Créditos</a> 
@@ -28,14 +27,6 @@ Antes de ejecutar este script, asegúrate de tener:
 - **Privilegios administrativos** (recomendado para acceso completo a Windows Update)
 - **Servicio de Windows Update** habilitado y en ejecución
 - **Conectividad a Internet** para obtención de metadatos de actualizaciones
-
-## Descarga
-Primero, necesitarás tener git instalado en tu máquina. Si no lo tienes, consulta el siguiente enlace: [Git](https://git-scm.com)
-
-Clona este repositorio:
-```powershell
-git clone https://github.com/matiasdante/windows-update-checker.git
-```
 
 ## Cómo usarlo
 
